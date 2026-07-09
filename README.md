@@ -3,6 +3,13 @@
 A learning project built to understand, end-to-end, how a real LLM agent is put together: prompting, tool use, structured output validation, and shipping the result behind both a CLI and a web UI. It's an AI agent that takes a developer's request (and optional code/context) and returns a structured, actionable report — explaining code, spotting bugs, or planning a feature, without ever executing the user's code.
 
 ---
+## Demo
+ 
+![Developer Assistant Agent Demo](assets/demo.gif)
+ 
+*The Streamlit app taking a developer request and code snippet, and returning a structured report with task type, difficulty, risk level, potential bugs, and next steps.*
+ 
+---
 
 ## 1. Problem Statement
 
