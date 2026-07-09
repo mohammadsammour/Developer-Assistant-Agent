@@ -1,0 +1,7 @@
+langchain 
+langchain-google-genai 
+python-dotenv 
+pydantic
+streamlit
+langchain-ollama
+parso
