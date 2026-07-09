@@ -79,9 +79,7 @@ Developer-Assistant-Agent/
 ├── apps/
 │   ├── cli_app.py       # Terminal interface
 │   └── streamlit_app.py # Web interface
-├── developer_assistant.ipynb   # Exploratory notebook version
-├── docs/                        # Problem statement / system design / evaluation notes (WIP)
-├── examples/                    # Example inputs/outputs (WIP)
+├── examples/                    # Example inputs/outputs
 └── requirements.txt
 ```
 
